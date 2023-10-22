@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about data analysis and here's a little about me:
 
 - 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning mS Excel, SQL, Power BI, and Python.
+- 🌱 I’m currently learning MS Excel, SQL, Power BI, and Python.
 - 💞️ I’m looking to collaborate on data analyst projects.
 - 📫 You can reach me at bukari08@gmail.com.
 
